@@ -1,0 +1,40 @@
+DefaultContentLanguage: "en"
+SectionPagesMenu: "main"
+pagination.pagerSize: 3 # this is set low for demonstrating with dummy content. Set to a higher number
+googleAnalytics: ""
+enableRobotsTXT: true
+
+baseURL: 'https://halloween.onthecompound.org/'
+languageCode: 'en-us'
+title: 'Halloween on the Compound'
+
+sitemap:
+  changefreq: "monthly"
+  priority: 0.5
+  filename: "sitemap.xml"
+
+languages:
+  en:
+    title: "Halloween on the Compound"
+    weight: 1
+    contentDir: "content/en"
+
+
+params:
+  text_color: ""
+  author: ""
+  favicon: ""
+  site_logo: ""
+  description: "The last theme you'll ever need. Maybe."
+  # choose a background color from any on this page: https://tachyons.io/docs/themes/skins/ and preface it with "bg-"
+  background_color_class: "bg-black"
+  recent_posts_number: 3
+  ananke_socials:
+  - name: facebook
+    url: https://www.facebook.com/profile.php?id=100066775200841
+
+theme: ["github.com/theNewDynamic/gohugo-theme-ananke"]
+
+module:
+  hugoVersion:
+    min: "0.84.0"
