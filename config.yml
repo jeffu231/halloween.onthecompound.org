@@ -19,6 +19,13 @@ languages:
     weight: 1
     contentDir: "content/en"
 
+menu:
+  main:
+      - name: "Request a Song"
+        title: "Request a Song"
+        pre: "<i class='fa fa-road'></i>"
+        weight: 10
+        url: "https://lightshow.onthecompound.org"
 
 params:
   text_color: ""
