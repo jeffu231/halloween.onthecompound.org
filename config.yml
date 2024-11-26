@@ -40,7 +40,7 @@ params:
   - name: facebook
     url: https://www.facebook.com/profile.php?id=100066775200841
 
-theme: ["github.com/theNewDynamic/gohugo-theme-ananke"]
+theme: ["github.com/theNewDynamic/gohugo-theme-ananke/v2"]
 
 module:
   hugoVersion:
