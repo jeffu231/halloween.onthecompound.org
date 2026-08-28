@@ -5,7 +5,7 @@ featured_image: "frank-singer.png"
 date: 2024-10-03T08:16:30-05:00
 ---
 
-After many weeks of preparations and work to setup the show, it is ready to go live. The first performances will be on 10-3-2024. We have several new features this year. In addition to the Pumpkin and his ghouls, Frank has joined to Ghost to lead and accompany on many songs. More lights have been added the house on the end of the road this year. The house leading into the road has expanded the lights there as well.
+After many weeks of preparations and work to setup the show, it is ready to go live. The first performances will be on 10-3-2024. We have several new features this year. In addition to the Pumpkin and his ghouls, Frank has joined the Ghost to lead and accompany on many songs. More lights have been added the house on the end of the road this year. The house leading into the road has expanded the lights there as well.
 
 The show runs from 6:30pm until 10pm everyday. Please be courteous to the neighbors and don't block driveways.
 
