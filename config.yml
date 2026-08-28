@@ -1,6 +1,6 @@
 DefaultContentLanguage: "en"
 SectionPagesMenu: "main"
-pagination.pagerSize: 3 # this is set low for demonstrating with dummy content. Set to a higher number
+pagination.pagerSize: 10
 googleAnalytics: ""
 enableRobotsTXT: true
 
