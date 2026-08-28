@@ -1,7 +1,7 @@
 ---
 title: '2024 Halloween on the Compound Begins'
 description: "Post indicating that the 2024 show will be going live."
-featured_image: "/images/frank-singer.png"
+featured_image: "frank-singer.png"
 date: 2024-10-03T08:16:30-05:00
 ---
 

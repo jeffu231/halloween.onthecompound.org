@@ -1,7 +1,7 @@
 ---
 title: '2025 Halloween on the Compound Getting Close'
 description: "2025 show station freuency changing to 89.5."
-featured_image: "/images/radiostation-halloween.png"
+featured_image: "radiostation-halloween.png"
 date: 2025-09-17T16:16:30-05:00
 ---
 
