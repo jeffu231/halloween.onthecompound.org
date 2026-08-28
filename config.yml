@@ -39,9 +39,11 @@ params:
   ananke:
     pages:
       show_list_images: true
-  ananke_socials:
-  - name: facebook
-    url: https://www.facebook.com/profile.php?id=100066775200841
+    social:
+      follow:
+        networks: ["facebook"]
+      facebook:
+        profilelink: "https://www.facebook.com/profile.php?id=100066775200841"
 
 theme: ["github.com/gohugo-ananke/ananke/v2"]
 

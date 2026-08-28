@@ -12,4 +12,6 @@ Once again, you will be able to vote for your favorite song to be played. While 
 
 Be sure to allow the website to use your location. We only allow votes from people that are actually at the show.
 
+The radio station remains at 89.5 FM, so set a memory for it in advance. If you have the RDS feature on your radio, the currently playing song will appear there along with the link to the song voting site. 
+
 [Request a Song](https://lightshow.onthecompound.org)
