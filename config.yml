@@ -5,7 +5,6 @@ googleAnalytics: ""
 enableRobotsTXT: true
 
 baseURL: 'https://halloween.onthecompound.org/'
-languageCode: 'en-us'
 title: 'Halloween on the Compound'
 
 sitemap:
@@ -18,6 +17,7 @@ languages:
     title: "Halloween on the Compound"
     weight: 1
     contentDir: "content/en"
+    locale: "en-us"
 
 menu:
   main:
@@ -40,7 +40,7 @@ params:
   - name: facebook
     url: https://www.facebook.com/profile.php?id=100066775200841
 
-theme: ["github.com/theNewDynamic/gohugo-theme-ananke/v2"]
+theme: ["github.com/gohugo-ananke/ananke/v2"]
 
 module:
   hugoVersion:
